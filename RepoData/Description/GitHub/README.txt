@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🥾️🖥️ Booty is a family of bootloaders. Booty can mean 4 things, but here, it refers to booting up a computer.
