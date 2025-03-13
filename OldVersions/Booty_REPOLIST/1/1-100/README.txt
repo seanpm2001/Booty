@@ -2,10 +2,10 @@
 //// Booty_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Booty project repositories by @seanpm2001
-//// As of 2025, Tuesday, March 11th
+//// As of 2025, Wednesday, March 12th
 
 //// ----------------------------------------------------- \\\\
-//// Booty Project (13)
+//// Booty Project (21)
 //// ----------------------------------------------------- \\\\
 
 //// Booty Core (1)
@@ -41,17 +41,37 @@ https://github.com/seanpm2001/Booty_EmailOS_Docs
 https://github.com/seanpm2001/Booty_LocksmithOS
 https://github.com/seanpm2001/Booty_LocksmithOS_Docs
 
-//// Booty: MetroTechno (1)
+//// Booty: MetroTechno (2)
 
 https://github.com/seanpm2001/Booty_MetroTechno
+https://github.com/seanpm2001/Booty_MetroTechno_Docs
+
+//// Booty: BathHouseOS (2)
+
+https://github.com/seanpm2001/Booty_BathHouseOS
+https://github.com/seanpm2001/Booty_BathHouseOS_Docs
+
+//// Booty: BathOS (2)
+
+https://github.com/seanpm2001/Booty_BathOS
+https://github.com/seanpm2001/Booty_BathOS_Docs
+
+//// Booty: UriOS (2)
+
+https://github.com/seanpm2001/Booty_UriOS
+https://github.com/seanpm2001/Booty_UriOS_Docs
+
+//// Booty: SankOS (1)
+
+https://github.com/seanpm2001/Booty_SankOS
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Booty): 13
-//// 1+1+2+2+2+2+2+1=13
+//// Repo count (Booty): 21
+//// 1+1+2+2+2+2+2+2+2+2+2+1=21
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (6)
+//// See also (10)
 
 //// BerryBoot (1)
 
@@ -77,19 +97,35 @@ https://github.com/seanpm2001/LocksmithOS
 
 https://github.com/seanpm2001/MetroTechno
 
+//// BathHouseOS (1)
+
+https://github.com/seanpm2001/BathHouseOS
+
+//// BathOS (1)
+
+https://github.com/seanpm2001/BathOS
+
+//// UriOS (1)
+
+https://github.com/seanpm2001/UriOS
+
+//// SankOS (1)
+
+https://github.com/seanpm2001/SankOS
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 6
-//// 1+1+1+1+1+1=6
+//// Repo count (See also): 10
+//// 1+1+1+1+1+1+1+1+1+1=10
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 19
-//// 13+6=19
+//// Total repo count: 31
+//// 21+10=31
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Tuesday, March 11th at 05:18 pm PST)
-//// Line count (including blank lines and compiler line): 96
+//// File version: 3 (2025, Wednesday, March 12th at 05:55 pm PST)
+//// Line count (including blank lines and compiler line): 132
 //// ----------------------------------------------------- \\\\
 
 //// End of file
