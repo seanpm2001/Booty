@@ -2,10 +2,10 @@
 //// Booty_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Booty project repositories by @seanpm2001
-//// As of 2025, Thursday, March 13th
+//// As of 2025, Friday, March 14th
 
 //// ----------------------------------------------------- \\\\
-//// Booty Project (29)
+//// Booty Project (37)
 //// ----------------------------------------------------- \\\\
 
 //// Booty Core (1)
@@ -81,17 +81,37 @@ https://github.com/seanpm2001/Booty_MaprilOS_Docs
 https://github.com/seanpm2001/Booty_Green-Star-OS
 https://github.com/seanpm2001/Booty_Green-Star-OS_Docs
 
-//// Booty: BluPhoneOS (1)
+//// Booty: BluPhoneOS (2)
 
 https://github.com/seanpm2001/Booty_BluPhoneOS
+https://github.com/seanpm2001/Booty_BluPhoneOS_Docs
+
+//// Booty: CranberryOS (2)
+
+https://github.com/seanpm2001/Booty_CranberryOS
+https://github.com/seanpm2001/Booty_CranberryOS_Docs
+
+//// Booty: MEDOS (2)
+
+https://github.com/seanpm2001/Booty_MEDOS
+https://github.com/seanpm2001/Booty_MEDOS_Docs
+
+//// Booty: AquariOS (2)
+
+https://github.com/seanpm2001/Booty_AquariOS
+https://github.com/seanpm2001/Booty_AquariOS_Docs
+
+//// Booty: OpenGovOS (1)
+
+https://github.com/seanpm2001/Booty_OpenGovOS
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Booty): 29
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+1=29
+//// Repo count (Booty): 37
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1=37
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (16)
+//// See also (20)
 
 //// BerryBoot (1)
 
@@ -149,6 +169,22 @@ https://github.com/seanpm2001/Green-Star-OS
 
 https://github.com/seanpm2001/BluPhoneOS
 
+//// CranberryOS (1)
+
+https://github.com/seanpm2001/CranberryOS
+
+//// MEDOS (1)
+
+https://github.com/seanpm2001/MEDOS
+
+//// AquariOS (1)
+
+https://github.com/seanpm2001/AquariOS
+
+//// OpenGovOS (1)
+
+https://github.com/seanpm2001/OpenGovOS
+
 //// Seanpm2001 Operating Systems (1)
 
 https://github.com/seanpm2001/Seanpm2001-Operating-Systems
@@ -158,18 +194,18 @@ https://github.com/seanpm2001/Seanpm2001-Operating-Systems
 https://github.com/seanpm2001/Seanwallawalla-operating-systems
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 16
-//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=16
+//// Repo count (See also): 20
+//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=20
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 45
-//// 29+16=45
+//// Total repo count: 57
+//// 37+20=57
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Thursday, March 13th at 05:25 pm PST)
-//// Line count (including blank lines and compiler line): 176
+//// File version: 5 (2025, Friday, March 14th at 03:44 pm PST)
+//// Line count (including blank lines and compiler line): 212
 //// ----------------------------------------------------- \\\\
 
 //// End of file
