@@ -2,10 +2,10 @@
 //// Booty_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Booty project repositories by @seanpm2001
-//// As of 2025, Friday, March 14th
+//// As of 2025, Monday, March 17th
 
 //// ----------------------------------------------------- \\\\
-//// Booty Project (37)
+//// Booty Project (42)
 //// ----------------------------------------------------- \\\\
 
 //// Booty Core (1)
@@ -101,17 +101,28 @@ https://github.com/seanpm2001/Booty_MEDOS_Docs
 https://github.com/seanpm2001/Booty_AquariOS
 https://github.com/seanpm2001/Booty_AquariOS_Docs
 
-//// Booty: OpenGovOS (1)
+//// Booty: OpenGovOS (2)
 
 https://github.com/seanpm2001/Booty_OpenGovOS
+https://github.com/seanpm2001/Booty_OpenGovOS_Docs
+
+//// Booty: LennyOS (2)
+
+https://github.com/seanpm2001/Booty_LennyOS
+https://github.com/seanpm2001/Booty_LennyOS_Docs
+
+//// Booty: UCALC (2)
+
+https://github.com/seanpm2001/Booty_UCALC
+https://github.com/seanpm2001/Booty_UCALC_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Booty): 37
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1=37
+//// Repo count (Booty): 42
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=42
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (20)
+//// See also (22)
 
 //// BerryBoot (1)
 
@@ -185,6 +196,14 @@ https://github.com/seanpm2001/AquariOS
 
 https://github.com/seanpm2001/OpenGovOS
 
+//// UCALC (1)
+
+https://github.com/seanpm2001/UCALC
+
+//// LennyOS (1)
+
+https://github.com/seanpm2001/LennyOS
+
 //// Seanpm2001 Operating Systems (1)
 
 https://github.com/seanpm2001/Seanpm2001-Operating-Systems
@@ -194,18 +213,18 @@ https://github.com/seanpm2001/Seanpm2001-Operating-Systems
 https://github.com/seanpm2001/Seanwallawalla-operating-systems
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 20
-//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=20
+//// Repo count (See also): 22
+//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=22
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 57
-//// 37+20=57
+//// Total repo count: 64
+//// 42+22=64
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Friday, March 14th at 03:44 pm PST)
-//// Line count (including blank lines and compiler line): 212
+//// File version: 6 (2025, Monday, March 17th at 02:53 pm PST)
+//// Line count (including blank lines and compiler line): 231
 //// ----------------------------------------------------- \\\\
 
 //// End of file
