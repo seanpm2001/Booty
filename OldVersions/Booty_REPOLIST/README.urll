@@ -2,10 +2,10 @@
 //// Booty_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Booty project repositories by @seanpm2001
-//// As of 2025, Monday, March 17th
+//// As of 2025, Monday, August 25th
 
 //// ----------------------------------------------------- \\\\
-//// Booty Project (42)
+//// Booty Project (43)
 //// ----------------------------------------------------- \\\\
 
 //// Booty Core (1)
@@ -15,6 +15,10 @@ https://github.com/seanpm2001/Booty
 //// Booty Documentation core (1)
 
 https://github.com/seanpm2001/Booty_Docs
+
+//// Booty website (1)
+
+https://github.com/seanpm2001/Booty_Website
 
 //// Booty: BerryBoot (2)
 
@@ -213,8 +217,8 @@ https://github.com/seanpm2001/Seanpm2001-Operating-Systems
 https://github.com/seanpm2001/Seanwallawalla-operating-systems
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 22
-//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=22
+//// Repo count (See also): 23
+//// 1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=23
 //// ----------------------------------------------------- \\\\
 //// Total repo count: 64
 //// 42+22=64
@@ -223,8 +227,8 @@ https://github.com/seanpm2001/Seanwallawalla-operating-systems
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Monday, March 17th at 02:53 pm PST)
-//// Line count (including blank lines and compiler line): 231
+//// File version: 7 (2025, Monday, August 25th at 07:08 pm PST)
+//// Line count (including blank lines and compiler line): 235
 //// ----------------------------------------------------- \\\\
 
 //// End of file
